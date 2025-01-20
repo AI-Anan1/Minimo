@@ -1,0 +1,11 @@
+
+
+font-family---
+
+font-family: "Playfair Display", serif;
+  font-family: "Inconsolata", serif;
+   font-family: "Ubuntu", serif;
+
+   color- #0000
+   ash- 626262
+   light- #b4ad9e
